@@ -1,4 +1,4 @@
-# ASTR420
+# ASTR420 -- activities updated Spring 2021
 Computational astronomy explorations for upper-level undergraduates
 
 
