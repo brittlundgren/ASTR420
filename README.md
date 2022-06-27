@@ -10,6 +10,6 @@ These Jupyter notebooks are designed to be run from the SciServer Compute enviro
 
 If you set up a SciServer account and upload these notebooks into a new “container”, they should compile without error.  There are two versions of each of the python notebooks in this repository. One has all of the output cleared, and one is fully compiled with worked solutions for each provided prompt. 
 
-These activities use the programming language Python 3 to interface with the SciServer, although they could be modified to use R. 
+These activities use the programming language Python 3 to interface with the SciServer, although they could be modified to use Google Colab. 
 
 **Questions or comments?**  Please contact Britt Lundgren: blundgre@unca.edu
