@@ -8,7 +8,7 @@ These Jupyter notebooks are designed to be run from the SciServer Compute enviro
 
 **Instructions for setting up a free account on SciServer** can be found in the [included document](SciServer_registration_instructions_ASTR420.pdf).
 
-If you set up a SciServer account and upload these notebooks into a new “container”, they should compile without error.  There are two versions of each of the python notebooks in this repository. One has all of the output cleared, and one is fully compiled with worked solutions for each provided prompt. 
+If you set up a SciServer account and upload these notebooks, along with the "img" directory and its contents, into a new “container”, they should compile without error.  There are two versions of each of the python notebooks in this repository. One has all of the output cleared, and one is fully compiled with worked solutions for each provided prompt. 
 
 These activities use the programming language Python 3 to interface with the SciServer, although they could be modified to use Google Colab. 
 
